@@ -1,0 +1,20 @@
+﻿  Bullet.cpp
+c:\users\linec\source\repos\project31\project31\config_game_param.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\bullet.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Map.cpp
+c:\users\linec\source\repos\project31\project31\config_game_param.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\map.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\map.cpp(72): warning C4244: '=': conversion from 'sf::Int64' to 'size_t', possible loss of data
+c:\users\linec\source\repos\project31\project31\map.cpp(119): warning C4244: '=': conversion from 'sf::Int64' to 'size_t', possible loss of data
+  Source.cpp
+c:\users\linec\source\repos\project31\project31\config_game_param.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tank_baza.cpp
+c:\users\linec\source\repos\project31\project31\config_game_param.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tank_player.cpp
+c:\users\linec\source\repos\project31\project31\config_game_param.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\tank_player.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\tank_player.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\tank_player.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\linec\source\repos\project31\project31\tank_player.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Project31.vcxproj -> C:\Users\linec\source\repos\Project31\Debug\Project31.exe
